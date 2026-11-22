@@ -1,0 +1,4 @@
+build/
+c-port-scanner
+*.json
+*.o
